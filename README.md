@@ -1,2 +1,2 @@
 # Dylstructor.github.io
-my page
+## Litteraly just my front page for github lol
